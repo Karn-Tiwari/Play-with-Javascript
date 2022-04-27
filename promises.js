@@ -7,7 +7,7 @@ console.log("Before");
 
 // });
 let promise = fs.promise.readFile("f1.txt");
-// console.log("promises");
+console.log("promises");
 // fullfilled
 promise.then(function (data){
     console.log("" + data);
