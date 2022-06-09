@@ -62,17 +62,20 @@
 // sayhello(smaller);
 // let rval = sayhello(smaller);
 // console.log(rval);
-  function outer()
-  {
-      console.log("I am outer returning inner");
-      return function inner(){
-      }
-  }
-  let rval = outer();
-  console.log("rval",rval);
-  rval();
-  let var = inner();
-  console.log("var",var);
+  // function outer()
+  // {
+  //     console.log("I am outer returning inner");
+  //     return function inner(){
+  //     }
+  // }
   // let rval = outer();
   // console.log("rval",rval);
   // rval();
+  // let var = inner();
+  // console.log("var",var);
+  // let rval = outer();
+  // console.log("rval",rval);
+  // rval();
+
+
+  
