@@ -38,18 +38,18 @@
 // fn();
 
 
-console.log("This line contains", varName);
-var varName = 10;
-//fn b defination
-function b(){
-console.log("This line contains", varName);
-}
-console.log("This line contains", varName);
-function fn() {
-    console.log("This line contains", varName);
-    var varName = 20;
-    //from fn
-    b();
-    console.log("This line contains", varName);
-}
-fn();
+// console.log("This line contains", varName);
+// var varName = 10;
+// //fn b defination
+// function b(){
+// console.log("This line contains", varName);
+// }
+// console.log("This line contains", varName);
+// function fn() {
+//     console.log("This line contains", varName);
+//     var varName = 20;
+//     //from fn
+//     b();
+//     console.log("This line contains", varName);
+// }
+// fn();
