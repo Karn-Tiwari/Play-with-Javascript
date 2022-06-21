@@ -53,3 +53,28 @@
 //     console.log("This line contains", varName);
 // }
 // fn();
+
+
+
+
+//FUNCTION ->Object -> key:value
+//Extra feature -> code property
+// jo function k ander likha hua hai usko jab bhi invoke karenge wo execute ho jayega
+
+// function fn(){
+//     console.log("This line contains", varName);
+//
+// fn();
+// fn.prop = "property of function";
+// fn.myfn = function fn(){
+//     console.log("I am a method of a function");
+// }
+// console.log(fn);
+// fn();
+// fn.myfh();
+// console.log(fn.prop);
+
+// JS-->primitive or object
+//everything object -> Daes,errors,modules
+//6 primitives types -> number string boolean undefined null symbol
+

@@ -22,11 +22,11 @@
 //object.sayHi();
 //arrays
 
-let arr=[1,2,3,4,5];
-arr.myprop = "Hello";
-arr.print = function(){
-    console.log("Hello from array");
-}
+// let arr=[1,2,3,4,5];
+// arr.myprop = "Hello";
+// arr.print = function(){
+//     console.log("Hello from array");
+// }
 
 // for(let key in arr)
 // {
@@ -36,4 +36,6 @@ arr.print = function(){
 // arr[95] = 100;
 // console.log(arr);
 // console.log(arr[23]);
+
+
 // function
